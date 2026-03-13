@@ -1,0 +1,16 @@
+{
+  "name": "my-first-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "wp-scripts build",
+    "dev": "wp-scripts start"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@wordpress/scripts": "^31.6.0"
+  }
+}
