@@ -1,6 +1,6 @@
 <?php
 
-function register_my_first_block()
+function register_my_second_block()
 {
     if (!function_exists('register_block_type')) :
         return;
@@ -8,4 +8,4 @@ function register_my_first_block()
 
     register_block_type(__DIR__);
 }
-add_action('init', 'register_my_first_block');
+add_action('init', 'register_my_second_block');

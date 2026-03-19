@@ -1,6 +1,6 @@
 import { registerBlockType } from "@wordpress/blocks";
-import { BlockControls, InspectorControls, RichText, useBlockProps } from "@wordpress/block-editor";
-import { ToolbarButton, ToolbarGroup, ToolbarDropdownMenu, PanelBody, SelectControl, TextControl } from "@wordpress/components";
+import { BlockControls, RichText, useBlockProps } from "@wordpress/block-editor";
+import { ToolbarGroup, ToolbarDropdownMenu } from "@wordpress/components";
 import {
   headingLevel1, headingLevel2, headingLevel3,
   headingLevel4, headingLevel5, headingLevel6,

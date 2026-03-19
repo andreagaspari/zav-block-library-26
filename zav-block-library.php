@@ -10,3 +10,4 @@
 
 // Aggiungi il blocco alla libreria di Gutenberg
 include "blocks/my-first-block/index.php";
+include "blocks/my-second-block/index.php";
