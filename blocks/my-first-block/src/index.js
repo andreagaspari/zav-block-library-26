@@ -172,10 +172,6 @@ registerBlockType(block.name, {
       <TagName {...blockProps} >
         {attributes.content}
       </TagName>
-
-      <RichText
-      />
-    
     </>;
   },
   save: (props) => {
@@ -196,3 +192,4 @@ registerBlockType(block.name, {
     </TagName>;
   },
 });
+
