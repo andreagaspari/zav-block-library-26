@@ -133,7 +133,7 @@ registerBlockType(block.name, {
               title: "H1",
               icon: headingLevel1,
               onClick: () => setAttributes({ tagName: 'h1' }),
-              isActive: (attributes.tagName == 'span')
+              isActive: (attributes.tagName == 'h1')
             },
             {
               title: "H2",
