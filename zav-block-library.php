@@ -8,6 +8,8 @@
  * Author URI: # 
  */
 
-// Aggiungi il blocco alla libreria di Gutenberg
 include "blocks/my-first-block/index.php";
 include "blocks/my-second-block/index.php";
+include "blocks/my-third-block/index.php";
+include "blocks/my-fourth-block/index.php";
+include "blocks/phone-social-link/index.php";
