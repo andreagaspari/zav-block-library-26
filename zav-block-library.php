@@ -13,3 +13,4 @@ include "blocks/my-second-block/index.php";
 include "blocks/my-third-block/index.php";
 include "blocks/my-fourth-block/index.php";
 include "blocks/phone-social-link/index.php";
+include "blocks/justified-paragraph/index.php";
